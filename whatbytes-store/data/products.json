@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "title": "Wireless Headphones",
+    "price": 1200,
+    "category": "electronics",
+    "image": "/images/headphones.jpg",
+    "description": "Noise-cancelling over-ear headphones.",
+    "rating": 4.5
+  },
+  {
+    "id": "2",
+    "title": "Smart Watch",
+    "price": 2000,
+    "category": "wearables",
+    "image": "/images/smartwatch.jpg",
+    "description": "Track your fitness and health easily.",
+    "rating": 4.3
+  },
+  {
+    "id": "3",
+    "title": "Running Shoes",
+    "price": 500,
+    "category": "wearables",
+    "image": "/images/Running Shoes.jpg",
+    "description": "For the Race .",
+    "rating": 4.3
+  },
+  {
+    "id": "4",
+    "title": "Digital Camera",
+    "price": 800,
+    "category": "accessories",
+    "image": "/images/Digital Camera.jpg",
+    "description": "For Taking Picture.",
+    "rating": 4.7
+  },
+  {
+    "id": "5",
+    "title": "Sun Glasses ",
+    "price": 1500,
+    "category": "electronics",
+    "image": "/images/Sunglasses.jpg",
+    "description": "Portable speaker with deep bass and clear sound.",
+    "rating": 4.6
+  },
+  {
+    "id": "6",
+    "title": "Bagpack",
+    "price": 500,
+    "category": "accessories",
+    "image": "/images/Bagpack.jpg",
+    "description": "Durable case to protect your smartphone.",
+    "rating": 4.2
+  },
+  {
+    "id": "7",
+    "title": "T-shirt",
+    "price": 700,
+    "category": "accessories",
+    "image": "/images/T-shirt.jpg",
+    "description": "Ergonomic laptop stand for better posture.",
+    "rating": 4.4
+  },
+  {
+    "id": "8",
+    "title": "Smart Phone",
+    "price": 4000,
+    "category": "accessories",
+    "image": "/images/Smartphone.jpg",
+    "description": "High-capacity portable charger for on-the-go charging.",
+    "rating": 4.8
+  }
+ 
+]
